@@ -58,5 +58,4 @@ export default class ReviewsDAO {
       return { error: e }
     }
   }
-
 }
